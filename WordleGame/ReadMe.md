@@ -14,7 +14,10 @@ o	🟨 Yellow: Correct letter in wrong position
 
 o	⬜ Gray: Letter not in the word
 
+
+
 Prerequisites
+
 •	Java 23
 
 •	Maven 3.8+
