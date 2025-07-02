@@ -1,6 +1,5 @@
 **Wordle Game **
-
-A comprehensive command-line implementation of the popular Wordle game built with Java 23, featuring advanced coding practices, exception handling, and comprehensive testing.
+Implement a command-line version of the web game Wordle.
 
 Game Rules
 
@@ -8,11 +7,9 @@ Game Rules
 
 2.	Feedback System: 
 
-o	🟩 Green: Correct letter in correct position
-
-o	🟨 Yellow: Correct letter in wrong position
-
-o	⬜ Gray: Letter not in the word
+    	🟩 Green: Correct letter in correct position
+      🟨 Yellow: Correct letter in wrong position
+      ⬜ Gray: Letter not in the word
 
 
 
