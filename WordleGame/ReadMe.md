@@ -21,5 +21,5 @@ Prerequisites
 
 •	Java 23
 
-•	Maven 3.8+
+•	Maven 3.8
 
